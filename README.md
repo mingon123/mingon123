@@ -90,11 +90,11 @@
 ## 🔥 최근 커밋 활동 & GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingon123&show_icons=true&theme=tokyonight" alt="mingon123's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mingon123&show_icons=true&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingon123&theme=tokyonight" alt="mingon123's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingon123&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mingon123&theme=tokyo-night" alt="mingon123's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mingon123&theme=tokyo-night"/>
 </p>
 
 ---
